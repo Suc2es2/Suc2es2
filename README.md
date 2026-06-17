@@ -1,6 +1,6 @@
-# 👋 你好，我是 Suc2es2
+# 👋 你好，我是 雾島风起時
 
-**红队操作手 | CTF 选手 | SRC 漏洞赏金猎人**
+**红队 | CTF 选手 | SRC 漏洞赏金猎人**
 
 [![GitHub followers](https://img.shields.io/github/followers/Suc2es2?label=关注&style=social)](https://github.com/Suc2es2)
 [![Twitter](https://img.shields.io/badge/Twitter-@Suc2es2-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/Suc2es2)
@@ -10,13 +10,10 @@
 
 ## 🧨 关于我
 
-- 🔭 目前正在强化 **Active Directory 域渗透**、**C2 框架** 和 **绕过检测技术**。
-- 🌱 当前学习方向：**Windows 内核底层机制** 和 **ARM 逆向工程**。
-- 👯 希望合作：**开源红队工具** 和 **CTF 赛题开发**。
-- 🤔 寻求帮助：**EDR/AV 绕过** 及 **现代检测工程** 的对抗技巧。
-- 💬 可以问我：**Web 渗透测试**、**权限提升** 或 **二进制漏洞利用**。
-- 😄 性别：男
-- ⚡ 趣闻：我曾经在某个 SRC 中利用一个奇怪的 Unicode 归一化漏洞挖到了一个 RCE。
+- 😄 Old Github：https://github.com/duckpigdog
+- 🔭 目前正在强化 **Active Directory 域渗透**、**C2 框架** 和 **绕过检测技术**
+- 🌱 当前学习方向：**Windows 内核底层机制** 和 **ARM 逆向工程**
+- 👯 希望合作：**开源红队工具** 和 **CTF 赛题开发**
 
 ---
 
@@ -59,4 +56,4 @@
 
 ## 📫 联系我
 
-- WeChat: `YDD3327026244`
+- WeChat: `3327026244`
