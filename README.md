@@ -47,13 +47,6 @@
 
 ---
 
-## 📊 GitHub 统计
-
-![Suc2es2 的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=Suc2es2&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![常用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Suc2es2&layout=compact&theme=dark&hide_border=true&langs_count=6)
-
----
-
 ## 📫 联系我
 
 - WeChat: `XR3327026244`
